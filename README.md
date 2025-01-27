@@ -30,6 +30,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 &nbsp;  
 &nbsp;
 
+## Demonstração
+
+<img src="assets/Demonstração.gif" width="100%" height="100%" alt="Demonstração do projeto">
+
 ## Contribuições e agradecimentos
 
 Meus gradecimentos à [Alura](https://github.com/alura-cursos) e à [Oracle](https://github.com/oracle) pelo conteúdo e conhecimento disponibilizado através do curso **<Hello, ONE!>**.
